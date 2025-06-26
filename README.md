@@ -1,4 +1,4 @@
-# 🌸 Verse - A Real-time Platform for Thought & Verse Writers
+![Simulator Screenshot - iphone - 2025-06-26 at 21 19 22](https://github.com/user-attachments/assets/e6a9baa5-b724-41b3-a28f-a517de260b08)# 🌸 Verse - A Real-time Platform for Thought & Verse Writers
 
 **Verse** is a Flutter-based mobile application designed as a serene platform for thought, poetry, and verse writers to showcase their creativity through expressive texts accompanied by meaningful images.
 
@@ -48,7 +48,8 @@ Built with ❤️ for artists, creators, and dreamers — Verse blends smooth UI
 ---
 
 ## 📱 Screenshots (Coming Soon)
-> *(Add screenshots here when ready for a visual showcase of your app!)*
+> *![Simulator Screenshot - iphone - 2025-06-26 at 21 19 22](https://github.com/user-attachments/assets/ce989991-e9b0-4040-8c6e-59e00029e238)
+*
 
 ---
 
